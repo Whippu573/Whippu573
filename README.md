@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pmp573
+- 👋 Hi, I’m @Whippu573
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing at all.
